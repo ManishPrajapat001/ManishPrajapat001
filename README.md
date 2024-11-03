@@ -1,7 +1,3 @@
-Here's an updated README file for your GitHub profile:
-
----
-
 # Hi there, I'm Manish Prajapat! 👋
 
 I'm a recent graduate from **IIT BHU** (2024) and currently working at **TCS** as a Software Developer. I’m passionate about building robust web applications and continuously enhancing my skills in both frontend and backend technologies.
@@ -25,7 +21,7 @@ I'm a recent graduate from **IIT BHU** (2024) and currently working at **TCS** a
 
 ---
 
-Feel free to add links to specific projects or adjust any details to fit your style!
+
 
 <!--
 **ManishPrajapat001/ManishPrajapat001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
